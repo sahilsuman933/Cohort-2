@@ -3,11 +3,12 @@ function timer() {
 
     setTimeout(function sayHello() {
         console.log("Hello Sahil!")
-    }, 1000);
 
-    const endTime = new Date() - startTime;
-    console.log("End Time:" + endTime)
+        const endTime = new Date() - startTime;
+        console.log("End Time:" + endTime);
+    }, 3000);
+
+    
 }
 
 timer()
-
