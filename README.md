@@ -1,0 +1,1 @@
+This repository contains all the solution of 100xDevs Cohort 2.0 Solutions.
